@@ -4,8 +4,8 @@ _Project status_: (pre-preprint).
 
 Code organization: 
 
-    preprint/
-        v1/
+    [preprint/]
+        [v1/]
         [v2/]
     [final/]
     
