@@ -1,6 +1,6 @@
 # datasetdecay
 
-_Project status_: (pre-preprint).
+_Project status_: preprint.
 
 Code organization: 
 
